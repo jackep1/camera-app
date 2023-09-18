@@ -81,7 +81,7 @@
             "figmaComponents": {},
             "description": null,
             "icon": null,
-            "projectName": "Camera",
+            "projectName": "Camera (as dev)",
             "settings": {
                 "teamId": null,
                 "appName": null,
@@ -115,7 +115,7 @@
                     "ios": {
                         "usageDescriptions": {
                             "NSCameraUsageDescription": "",
-                            "NSMicrophoneUsageDescription": ""
+                            "NSPhotoLibraryUsageDescription": ""
                         }
                     }
                 },
@@ -164,7 +164,7 @@
                     "ios": {
                         "usageDescriptions": {
                             "NSCameraUsageDescription": "",
-                            "NSMicrophoneUsageDescription": ""
+                            "NSPhotoLibraryUsageDescription": ""
                         }
                     }
                 },
@@ -189,7 +189,7 @@
             "customProperties": [],
             "modules": [],
             "usesDragDropUi": true,
-            "totalCopy": "2",
+            "totalCopy": "0",
             "totalStar": "0",
             "starAction": "star",
             "variables": {},
